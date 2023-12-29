@@ -4,6 +4,4 @@
 - template是动漫模板
 - template2是剧集/电影模板
 
-v1版本是当前使用的，未针对非Windows用户做字体优化
-
-v2版本使用自定义css，提供全平台字体支持
+存在的问题是非 Windows 用户无法使用 Consolas 字体
